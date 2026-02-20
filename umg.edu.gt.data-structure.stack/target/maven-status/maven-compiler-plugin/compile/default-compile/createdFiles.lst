@@ -1,2 +1,4 @@
 umg\edu\gt\datastructure\stack\App.class
-umg\edu\gt\datastructure\stack\App$Stack.class
+umg\edu\gt\datastructure\stack\Node.class
+umg\edu\gt\datastructure\stack\MyStack.class
+umg\edu\gt\datastructure\stack\SymbolValidator.class
